@@ -8,6 +8,10 @@
 
 .vs/
 
+# JetBrains Rider
+.idea/
+*.sln.iml
+
 # Build results
 
 [Dd]ebug/
